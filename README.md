@@ -14,5 +14,7 @@ The content of this repository, and all of the https://temporalsemantics.info we
 
 *repository author*:  
 **Nicholas J. Car**  
+Data Systems Architect  
+[SURROUND Australia Pty Ltd](http://surroundaustralia.com)  
 <nicholas.car@surroundaustralia.com>  
-< http://orcid.org/0000-0002-8742-7730>  
+<http://orcid.org/0000-0002-8742-7730>  
