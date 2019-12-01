@@ -1,0 +1,10 @@
+title: Temporal Semantics
+email: nicholas.car@surroundaustralia.com
+description: 
+  A description of representations of temporal information, temporal typologies, temporal reference systems etc., from a Semantic Web point of view.
+baseurl: "/" 
+url: "https://temporalsemantics.info"
+github_username:  nicholascar
+
+# Build settings
+theme: page
