@@ -102,3 +102,11 @@ table.layout tr:nth-child(even) {
     margin-top: -200px;
     margin-right: 100px;
 }
+
+.quote {
+    margin: 0 30px 0 30px;
+    font-style: italic;
+    line-height: 2em;
+    background-color: #eee;
+    padding: 10px;
+}

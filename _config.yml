@@ -5,6 +5,3 @@ description:
 baseurl: "/" 
 url: "https://temporalsemantics.info"
 github_username:  nicholascar
-
-# Build settings
-theme: page
