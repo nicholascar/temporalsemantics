@@ -13,3 +13,5 @@ permalink: owl-time
 </p>
 
 This page will contains reflections on the [Time Ontology in OWL](https://www.w3.org/TR/owl-time/).
+
+Also refer to https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/master/TimeOntology.ttl
